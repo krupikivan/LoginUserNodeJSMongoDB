@@ -1,4 +1,4 @@
 # Flutter Project with Node JS and MongoDB as BACKEND
-Flutter + NodeJS + MongoDB
 
-API REST project with Node JS and MongoDB
+Backend: https://github.com/kfarsoft/backNodeMongoDB
+Frontend: https://github.com/kfarsoft/backNodeMongoDB
